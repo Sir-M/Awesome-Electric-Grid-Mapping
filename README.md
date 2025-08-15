@@ -65,7 +65,7 @@
 * [Africa Knowledge Platform-European Comission](https://africa-knowledge-platform.ec.europa.eu/explore_maps)
 * [Integrated Resource Plan 2023 **Zambia**](https://www.moe.gov.zm/wp-content/uploads/2023/11/3.-IRP-Highlights.pdf)
 * [**Rwanda**: Transmission Development Plan 2023 2030](https://www.reg.rw/fileadmin/user_upload/Updated_Rwanda_Electricity_Transmission_Development_Plan_-_June_2023.pdf)
-
+* [**Burundi** Power Grid (World Bank + REGIDISO)](https://energydata.info/dataset/burundi-electricity-transmission-network-2007) (**Includes capacity data**)
 
 ### Asia
 * [Energy Map of **India**](https://vedas.sac.gov.in/energymap/view/powergis.jsp) (Based on OpenStreetMap Data)
